@@ -4,7 +4,7 @@
 </em></p>
 
 
-
+<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=connect%20%40barkale_amol)](https://twitter.com/barkale_amol)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Amol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/amol-barkale-985834204//)](https://www.linkedin.com/in/amol-barkale-985834204/)
 
@@ -39,10 +39,8 @@
 <!--  🙋‍♂️ Visit My Portfolio https://ramlala-yadav-portfolio.netlify.app
                     -->
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
-
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amolbarkale&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amolbarkale&theme=buefy&layout=compact" />
 </a>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
