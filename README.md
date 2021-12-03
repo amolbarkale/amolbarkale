@@ -4,9 +4,6 @@
 </em></p>
 
 
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=connect%20%40barkale_amol)](https://twitter.com/barkale_amol)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-Amol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/amol-barkale-985834204//)](https://www.linkedin.com/in/amol-barkale-985834204/)
 
 
 
@@ -34,12 +31,19 @@
 
 🥅 *2021 Goals :* Learning new things and contribute more  
 
- 📫 You can reach me at [chat](mailto:barkaleamol@gmail.com)
  
 <!--  🙋‍♂️ Visit My Portfolio https://ramlala-yadav-portfolio.netlify.app
                     -->
 
-<a width="80%" margin="auto" href="https://github.com/AVS1508">
+<a width="50%" margin="auto" href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amolbarkale&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amolbarkale&theme=buefy&layout=compact" />
 </a>
+
+
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=connect%20%40barkale_amol)](https://twitter.com/barkale_amol)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-Amol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/amol-barkale-985834204//)](https://www.linkedin.com/in/amol-barkale-985834204/)
