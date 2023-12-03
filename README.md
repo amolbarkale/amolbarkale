@@ -1,7 +1,7 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Amol S Barkale! 
 <!--  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2> -->
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Completed Web development at <a href="https://www.masaischool.com/">Masai school</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>A Frontend developer at <a href="https://www.gameopedia.com/">Gameopedia data solutions</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
@@ -10,7 +10,7 @@
 
  I'm a Full Stack Web Developer with hands-on experience in designing, developing, and maintaining projects.
  Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, and efficient code.
- Highly skilled in collabration, and DS & Algo.
+ Highly skilled in web development, and Discord Bot development.
  
  <p >
 
@@ -26,9 +26,9 @@
 
 🌱 A Full Stack Web Development
 
-🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide. Would be grateful.
+🤝 I’m looking for help with OpenSource Contributions.
 
-💬 *Ask me about :* Data Structures and Algorithms, JavaScript, React,  Discord.py, and MongoDb
+💬 *Ask me about :* Data Structures and Algorithms, JavaScript, React, Next.js, Discord.py, and MongoDB
 
 🥅 *2024 Goals :* Learning new things by contributing more  
 
