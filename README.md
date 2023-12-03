@@ -24,13 +24,13 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-🌱 I’m currently learning :  Full Stack Web Development
+🌱 A Full Stack Web Development
 
-🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
+🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide. Would be grateful.
 
-💬 *Ask me about :* Data Structures and Algorithms, JavaScript, React, and MongoDb
+💬 *Ask me about :* Data Structures and Algorithms, JavaScript, React,  Discord.py, and MongoDb
 
-🥅 *2021 Goals :* Learning new things and contribute more  
+🥅 *2024 Goals :* Learning new things by contributing more  
 
  
 <!--  🙋‍♂️ Visit My Portfolio https://ramlala-yadav-portfolio.netlify.app
