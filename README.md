@@ -24,18 +24,12 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-🌱 A Full Stack Web Development
+🌱 A Full Stack Web Developer
 
-🤝 I’m looking for help with OpenSource Contributions.
+🤝 Looking for help with OpenSource Contributions.
 
 💬 *Ask me about :* Data Structures and Algorithms, JavaScript, React, Next.js, Discord.py, and MongoDB
-
-🥅 *2024 Goals :* Learning new things by contributing more  
-
  
-<!--  🙋‍♂️ Visit My Portfolio https://ramlala-yadav-portfolio.netlify.app
-                    -->
-
 <a width="50%" margin="auto" href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amolbarkale&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amolbarkale&theme=buefy&layout=compact" />
