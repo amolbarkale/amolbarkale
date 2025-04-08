@@ -12,11 +12,10 @@
  Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, and efficient code.
  Highly skilled in web development, and Discord Bot development.
  
- <p >
-
+<p>
 <img src="https://img.shields.io/badge/JS-Javascript-red"/>
 <img src="https://img.shields.io/badge/React-React-blue"/>
-<img src="https://img.shields.io/badge/Node-node-green"/>
+<img src="https://img.shields.io/badge/Next-Next-green"/>
 <img src="https://img.shields.io/badge/express-Express-blueviolet"/>
 <img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen"/>
 </p>
@@ -26,9 +25,9 @@
 
 🌱 A Full Stack Web Developer
 
-🤝 Looking for help with OpenSource Contributions.
+🤝 Looking for help with Open Source Contributions.
 
-💬 *Ask me about :* Data Structures and Algorithms, JavaScript, React, Next.js, Discord.py, and MongoDB
+💬 *Ask me about :* JavaScript, React.js, Next.js, TypeScript, Discord.py, Express.js and MongoDB
  
 <a width="50%" margin="auto" href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amolbarkale&theme=buefy&show_icons=true" />
@@ -39,6 +38,6 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:barkaleamol@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-barkaleamol@gmail.com-blue?style=flat-square&logo=gmail"></a>
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=connect%20%40barkale_amol)](https://twitter.com/barkale_amol)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-Amol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/amol-barkale-985834204//)](https://www.linkedin.com/in/amol-barkale-985834204/)
+[![Linkedin URL](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amol-barkale-2b6a2a216/)](https://www.linkedin.com/in/amol-barkale-2b6a2a216/)
