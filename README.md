@@ -1,4 +1,4 @@
-<h2>Hey there, I am Amol S Barkale! 
+<h2>Hey there, I am Amol Barkale! 
 <!--  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2> -->
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Full-stack AI Engineer, ex. <a href="https://www.gameopedia.com/">Gameopedia data solutions</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -24,26 +24,26 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ### 👨🏻‍💻 About Me  
-- 🚀 Full Stack Web & **AI Engineer** with expertise in building scalable and intelligent solutions.  
-- 🔍 Hands-on experience in **LLMs, RAG architectures, LangChain, LangGraph, and automation workflows** (n8n).  
-- ⚡ Adept at **project management**, clean code practices, and delivering impactful solutions on time.  
-- 🤝 Open for collaboration & available for **freelance projects**. Hire me to bring your ideas to life!  
-- 🔄 Believe in learning, unlearning, and relearning to stay ahead in technology.
+- Full Stack Web & **AI Engineer** with expertise in building scalable and intelligent solutions.  
+- Hands-on experience in **LLMs, RAG architectures, LangChain, LangGraph, and automation workflows** (n8n).  
+- Adept at **project management**, clean code practices, and delivering impactful solutions on time.  
+- Open for collaboration & available for **freelance projects**. Hire me to bring your ideas to life!  
+- Believe in learning, unlearning, and relearning to stay ahead in technology.
 
-### 🛠️ Tech Stack & Skills  
+### Tech Stack & Skills  
 
-#### 🤖 Artificial Intelligence  
+#### Artificial Intelligence  
 - LLMs, RAG, LangChain, LangGraph, n8n Automation  
 - Machine Learning, Prompt Engineering, AI Workflow Design  
 
-#### 💻 Frontend Development  
+#### Frontend Development  
 - HTML, CSS, JavaScript, React.js, Next.js, TypeScript  
 - Tailwind CSS, Context API, Redux, NextAuth, Three.js  
 
-#### 🖥️ Backend & APIs  
+#### Backend & APIs  
 - REST, GraphQL, Express.js, FastAPI, MongoDB, SQL
 
-#### ⚙️ Tools & Platforms  
+#### Tools & Platforms  
 - Postman, Docker, CI/CD Pipelines  
 - Jira, Confluence, Git, Bitbucket
 
