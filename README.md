@@ -10,7 +10,7 @@
 
  Hands-on experience in designing, developing, and maintaining projects.
  Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean and efficient code.
- Highly skilled in web development and Discord Bot development.
+ Highly skilled in web development and AI automations.
  
 <p>
 <img src="https://img.shields.io/badge/JS-Javascript-red"/>
