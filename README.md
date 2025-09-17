@@ -52,13 +52,6 @@
 - Experimenting with **AI-driven applications** for EdTech and business automation  
 - Exploring scalable **RAG + Agent architectures**
 
-### Let's Connect  
-- 📞 +91 84599 25602  
-- barkaleamol@gmail.com  
-- [LinkedIn]([https://linkedin.com/in/amol-barkale](https://www.linkedin.com/in/amol-barkale/))  
-- [GitHub]([https://github.com/amolbarkale](https://github.com/amolbarkale))
-- [X]([https://linkedin.com/in/amol-barkale]([https://www.linkedin.com/in/amol-barkale/](https://x.com/amolsbarkale)))
-
 ---
  
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
