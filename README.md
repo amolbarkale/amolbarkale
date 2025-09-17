@@ -61,13 +61,6 @@
 
 ---
  
-<a width="50%" margin="auto" href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amolbarkale&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amolbarkale&theme=buefy&layout=compact" />
-</a>
-
-
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <a href="mailto:barkaleamol@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-barkaleamol@gmail.com-blue?style=flat-square&logo=gmail"></a>
