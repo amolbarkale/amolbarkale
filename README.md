@@ -56,7 +56,8 @@
 - 📞 +91 84599 25602  
 - barkaleamol@gmail.com  
 - [LinkedIn]([https://linkedin.com/in/amol-barkale](https://www.linkedin.com/in/amol-barkale/))  
-- [GitHub]([https://github.com/amolbarkale](https://github.com/amolbarkale)) 
+- [GitHub]([https://github.com/amolbarkale](https://github.com/amolbarkale))
+- [X]([https://linkedin.com/in/amol-barkale]([https://www.linkedin.com/in/amol-barkale/](https://x.com/amolsbarkale)))
 
 ---
  
