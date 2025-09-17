@@ -1,7 +1,7 @@
 <h2>Hey there, I am Amol Barkale! 
 <!--  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2> -->
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Full-stack AI Engineer, Ex. <a href="https://www.gameopedia.com/">Gameopedia data solutions</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Full-stack AI Engineer, Ex. <a href="https://www.gameopedia.com/">Gameopedia</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
