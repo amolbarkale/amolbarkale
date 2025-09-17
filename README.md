@@ -47,16 +47,16 @@
 - Postman, Docker, CI/CD Pipelines  
 - Jira, Confluence, Git, Bitbucket
 
-### 📌 Current Focus  
+### Current Focus  
 - Building **automation flows** with n8n  
 - Experimenting with **AI-driven applications** for EdTech and business automation  
 - Exploring scalable **RAG + Agent architectures**
 
-### 📫 Let's Connect  
+### Let's Connect  
 - 📞 +91 84599 25602  
-- 📧 barkaleamol@gmail.com  
-- 🔗 [LinkedIn]([https://linkedin.com/in/amol-barkale](https://www.linkedin.com/in/amol-barkale/))  
-- 💻 [GitHub]([https://github.com/amolbarkale](https://github.com/amolbarkale)) 
+- barkaleamol@gmail.com  
+- [LinkedIn]([https://linkedin.com/in/amol-barkale](https://www.linkedin.com/in/amol-barkale/))  
+- [GitHub]([https://github.com/amolbarkale](https://github.com/amolbarkale)) 
 
 ---
  
@@ -70,5 +70,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <a href="mailto:barkaleamol@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-barkaleamol@gmail.com-blue?style=flat-square&logo=gmail"></a>
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=connect%20%40barkale_amol)](https://twitter.com/barkale_amol)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=connect%20%40barkale_amol)]([https://twitter.com/barkale_amol](https://x.com/amolsbarkale))
 [![Linkedin URL](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/amol-barkale-2b6a2a216/](https://www.linkedin.com/in/amol-barkale/))](https://www.linkedin.com/in/amol-barkale-2b6a2a216/)
