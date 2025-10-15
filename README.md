@@ -37,11 +37,11 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ### 👨🏻‍💻 About Me  
-- Full Stack Web & **AI Engineer** with expertise in building scalable and intelligent solutions.  
+- Full Stack AI Engineer with expertise in building scalable and intelligent solutions.  
 - Hands-on experience in **LLMs, RAG architectures, LangChain, LangGraph, and automation workflows** (n8n).  
-- Adept at **project management**, clean code practices, and delivering impactful solutions on time.  
+- Adept at **project management**, clean code architecture, and delivering impactful solutions on time.  
 - Open for collaboration & available for **freelance projects**. Hire me to bring your ideas to life!  
-- Believe in learning, unlearning, and relearning to stay ahead in technology.
+- Believes in learning, unlearning, and relearning to stay ahead in technology.
 
 ### Tech Stack & Skills  
 
