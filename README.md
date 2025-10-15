@@ -18,6 +18,18 @@
 <img src="https://img.shields.io/badge/Next-Next-green"/>
 <img src="https://img.shields.io/badge/express-Express-blueviolet"/>
 <img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen"/>
+ 
+  <!-- AI & Data Stack -->
+<img src="https://img.shields.io/badge/Python-Python-yellow"/>
+<img src="https://img.shields.io/badge/AI%20Engineering-AI%20Engineering-orange"/>
+<img src="https://img.shields.io/badge/LangChain-LangChain-ff69b4"/>
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue"/>
+<img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-darkgreen"/>
+<img src="https://img.shields.io/badge/OpenAI-OpenAI-black"/>
+<img src="https://img.shields.io/badge/HuggingFace-HuggingFace-yellow"/>
+<img src="https://img.shields.io/badge/PyTorch-PyTorch-orange"/>
+<img src="https://img.shields.io/badge/VectorDBs-FAISS%20%7C%20Pinecone%20%7C%20Chroma-lightgrey"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-ML-lightblue"/>
 </p>
 
 
